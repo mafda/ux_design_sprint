@@ -40,7 +40,9 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 ## 2. Design Sprint
 
-Design Sprint is all about gathering a lot of knowledge and reaching an agreement with your team in a very short time.
+**Design Sprint** is all about gathering a lot of knowledge and reaching an agreement with your team in a very short time.
+
+[Design Sprint](https://www.thesprintbook.com/how) is to **build** and **test** a prototype in just **five days**:
 
 ![design sprint by mafda](img/design_sprint_by_mafda@2x.png)
 
@@ -83,8 +85,37 @@ No final da sprint
 * saberao exatamente o que fazer depois 
 * frequentemente é util terminar o prototipo e testar novamente
 
+## Interesting videos
+
+* [GV's Sprint Process in 90 Seconds](https://www.youtube.com/watch?v=K2vSQPh6MCE)
+* [Sprint: Set the Stage](https://www.youtube.com/watch?v=Fc6A2WuEkZI&t=3s)
+* [Sprint: Monday](https://www.youtube.com/watch?v=7zOBMxRYJ7I&t=9s)
+* [Sprint: Tuesday](https://www.youtube.com/watch?v=_ITJ5lAXQhg&t=5s)
+* [Sprint: Wednesday](https://www.youtube.com/watch?v=7BKBFOOKbNo&t=2s)
+* [Sprint: Thursday](https://www.youtube.com/watch?v=IGcwFV76t7o&t=5s)
+* [Sprint: Friday](https://www.youtube.com/watch?v=jQmBuKN10VY&t=3s)
+* [From ‘Sprint’: The Five-Act Interview](https://www.youtube.com/watch?v=U9ZG19XTbd4&t=11s)
+
+## Interesting books
+
+* [Lean UX: Applying Lean Principles to Improve User Experience](https://www.oreilly.com/library/view/lean-ux/9781449366834/)
+* [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.thesprintbook.com/)
+* [Design Sprint: A Practical Guidebook for Building Great Digital Products](http://www.designsprintbook.com/)
+
+## Design Sprint Checklist
+
+* [Sprint checklists (PDF)](https://static1.squarespace.com/static/56778f460ab377c981686546/t/56c2b6c337013bc7bcab14c7/1456958631313/Sprint+checklists.pdf)
+
+## More interesting links
+
+* [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
+* [The Design Sprint - GV](https://www.gv.com/sprint/)
+* [Design Sprint Kit with Google](https://designsprintkit.withgoogle.com/)
+* [Design Sprint DockYard](https://dockyard.com/design-sprints/)
+
 ## Reference
 
 * [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
+
 ---
 made with 💙 by [mafda](https://mafda.github.io/)

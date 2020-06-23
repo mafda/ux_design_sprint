@@ -46,12 +46,33 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 ![design sprint by mafda](img/design_sprint_by_mafda@2x.png)
 
+### Preparation - Before the Sprint begins
+
+* You need block out the entire week in the calendar
+* You need to recruit a team with diverse skills: 
+  * A decider and facilitator,
+  * Experts (Marketing, Design, Technology, Financial), and
+  * Customer service.
+* You need to find the right room
+* You need get the right materials:
+  * Whiteboards, markers, yellow sticky notes, timer, paper, snacks.
+* No devices in the room.
+
+> Checklist for [Set the Stage](https://library.gv.com/sprint-week-set-the-stage-99f2f29ce0e7).
+
 ### Monday - Map
 
-* pergunte aos especialistas
-* conversem um por vez e tomem notas
-* façam um mapa simples de 5 a 15 passos
-* escolham um alvo, selecione um tipo de usuario e foco no mapa
+* Define key questions and a long-term goal.
+* Ask the experts: share what they know, talk to one person at a time and take notes.
+* Make a map: your product or service with around 5-15 steps.
+* Pick a target: choose a customer type and a focus on the map that represents the greatest risk and/or opportunity. This will become the focus for the rest of the Sprint.
+
+* UX Tools:
+  * [Empathy mapping](https://medium.com/swlh/what-is-an-empathy-map-and-why-is-it-valuable-for-your-business-14236be4fdf4)
+  * [Customer Journey](https://www.appcues.com/blog/user-journey-map)
+  * [How Might We](https://medium.com/@Yasith/how-might-we-notes-6c29cd31fa0)
+
+> Checklist for [Sprint: Monday](https://library.gv.com/sprint-week-monday-4bf0606b5c81).
 
 ### Tuesday - Sketch
 

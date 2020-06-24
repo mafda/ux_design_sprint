@@ -116,18 +116,19 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 ### Friday - Test
 
-* 5 entrevistas com usuarios prodem revelar grandes padrões
-* o time vera a entrevista em uma sala de conferencia 
-
+* Show: your prototype to five customers.
+* Interviews: five customers.
+* Team: watche over video from another room.
 
 * **UX Tools**: 
-* 
+  * [Usability Interviews](https://www.nngroup.com/articles/how-many-test-users/)
+
 > Checklist for [Sprint: Friday](https://library.gv.com/sprint-week-friday-7f66b4194137#.8e10zsect).
 
-No final da sprint
+### Completion - After Sprint finish
 
-* saberao exatamente o que fazer depois 
-* frequentemente é util terminar o prototipo e testar novamente
+* You’ll know what to do next.
+* It’s helpful to fix the prototype and test it again.
 
 ## Interesting videos
 
@@ -156,6 +157,7 @@ No final da sprint
 * [The Design Sprint - GV](https://www.gv.com/sprint/)
 * [Design Sprint Kit with Google](https://designsprintkit.withgoogle.com/)
 * [Design Sprint DockYard](https://dockyard.com/design-sprints/)
+* [How to build a simple UX lab anywhere](https://library.gv.com/how-to-build-a-simple-ux-lab-anywhere-86e6c6b3fed4)
 
 ## Reference
 

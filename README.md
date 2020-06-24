@@ -40,7 +40,7 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 ## 2. Design Sprint
 
-**Design Sprint** is all about gathering a lot of knowledge and reaching an agreement with your team in a very short time.
+**Design Sprint** is about gathering a lot of knowledge and reaching an agreement with your team in a short time.
 
 [Design Sprint](https://www.thesprintbook.com/how) is to **build** and **test** a prototype in just **five days**:
 
@@ -48,24 +48,24 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 ### Preparation - Before the Sprint begins
 
-* You need block out the entire week in the calendar
+* You need to block out the entire week in the calendar
 * You need to recruit a team with diverse skills: 
   * A decider and facilitator,
   * Experts (Marketing, Design, Technology, Financial), and
   * Customer service.
 * You need to find the right room
-* You need get the right materials:
+* You need to get the right materials:
   * Whiteboards, markers, yellow sticky notes, timer, paper, snacks.
-* No devices in the room.
+* No devices in the room
 
 > Checklist for [Set the Stage](https://library.gv.com/sprint-week-set-the-stage-99f2f29ce0e7).
 
 ### Monday - Map
 
-* Define **key questions** and a **long-term goal**.
-* Ask the experts: share what they know, talk to one person at a time and take notes.
+* Define **critical questions** and a **long-term goal**.
+* Ask the experts: share what they know, talk to one person at a time, and take notes.
 * Make a map: your product or service with around 5-15 steps.
-* Pick a target: choose a customer type and a focus on the map that represents the greatest risk and/or opportunity. This will become the focus for the rest of the Sprint.
+* Pick a target: choose a customer type and a focus on the map representing the most significant risk or opportunity. It will become the focus for the rest of the Sprint.
 * **UX Tools**:
   * [Empathy mapping](https://medium.com/swlh/what-is-an-empathy-map-and-why-is-it-valuable-for-your-business-14236be4fdf4)
   * [Customer Journey](https://www.appcues.com/blog/user-journey-map)
@@ -76,11 +76,11 @@ LEAN UX principles help us establish a new work culture for ourselves.
 ### Tuesday - Sketch
 
 * Sketch: every individual will sketch their own detailed, opinionated solutions.
-* Four-step sketch method: 
-  1. Gather key info,
-  2. Draw rough solution,
-  3. Try rapid variations, and
-  4. Draw a detailed end to end solution.
+* Four-step sketch method:
+  * Gather key info,
+  * Draw rough solution,
+  * Try rapid variations, and
+  * Draw a complete end to end solution.
 * **UX Tools**:
   * [Crazy 8's](https://blog.prototypr.io/how-to-run-a-crazy-eights-workshop-60d0a67b29a)
 
@@ -91,8 +91,8 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 * Sticky decision: decide which of those sketches should be prototyped and tested.
 * Five-step "Sticky Decision" method:
-  * Art museum (put all the sketches on a wall),
-  * Heat map (assign interesting sketches),
+  * Art museum (put all the designs on a wall),
+  * Heat map (assign attractive designs),
   * Speed critique (quickly walks through the solution),
   * Dot voting (one vote to choose the best solution), and
   * Supervote (the final call).
@@ -104,7 +104,7 @@ LEAN UX principles help us establish a new work culture for ourselves.
 ### Thursday - Prototype
 
 * Build: realistic prototype of the solutions in your storyboard.
-* Simulate: finished product for your customers.
+* Simulate: for your customers, the finished product.
 * **UX Tools**: 
   * [Marvel](https://marvelapp.com/)
   * [InVision](https://www.invisionapp.com/)
@@ -118,7 +118,7 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 * Show: your prototype to five customers.
 * Interviews: five customers.
-* Team: watche over video from another room.
+* Team: watch over video from another room.
 * **UX Tools**: 
   * [Usability Interviews](https://www.nngroup.com/articles/how-many-test-users/)
 
@@ -161,6 +161,7 @@ LEAN UX principles help us establish a new work culture for ourselves.
 ## Reference
 
 * [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
+* [Flowchart](https://whimsical.com/)
 
 ---
 made with 💙 by [mafda](https://mafda.github.io/)

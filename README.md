@@ -119,7 +119,6 @@ LEAN UX principles help us establish a new work culture for ourselves.
 * Show: your prototype to five customers.
 * Interviews: five customers.
 * Team: watche over video from another room.
-
 * **UX Tools**: 
   * [Usability Interviews](https://www.nngroup.com/articles/how-many-test-users/)
 

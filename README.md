@@ -62,12 +62,11 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 ### Monday - Map
 
-* Define key questions and a long-term goal.
+* Define **key questions** and a **long-term goal**.
 * Ask the experts: share what they know, talk to one person at a time and take notes.
 * Make a map: your product or service with around 5-15 steps.
 * Pick a target: choose a customer type and a focus on the map that represents the greatest risk and/or opportunity. This will become the focus for the rest of the Sprint.
-
-* UX Tools:
+* **UX Tools**:
   * [Empathy mapping](https://medium.com/swlh/what-is-an-empathy-map-and-why-is-it-valuable-for-your-business-14236be4fdf4)
   * [Customer Journey](https://www.appcues.com/blog/user-journey-map)
   * [How Might We](https://medium.com/@Yasith/how-might-we-notes-6c29cd31fa0)
@@ -76,13 +75,25 @@ LEAN UX principles help us establish a new work culture for ourselves.
 
 ### Tuesday - Sketch
 
-* sketch individual
+* Sketch: every individual will sketch their own detailed, opinionated solutions.
+* Four-step sketch method: 
+  1. Gather key info,
+  2. Draw rough solution,
+  3. Try rapid variations, and
+  4. Draw a detailed end to end solution.
+* **UX Tools**:
+  * [Crazy 8's]()
+
+> Checklist for [Sprint: Tuesday](https://library.gv.com/sprint-week-tuesday-d22b30f905c3).
+
 
 ### Wednesday - Decide
 
 * escolham os melhores sketch
 * em silencio revisem e estruturem as criticas
 * transforme os melhores rabiscos em um storyboard
+
+> Checklist for [Sprint: Wednesday](https://library.gv.com/sprint-week-wednesday-900fe3f2c26e).
 
 ### Thursday - Prototype
 
@@ -96,10 +107,14 @@ LEAN UX principles help us establish a new work culture for ourselves.
   * power point
   * word
 
+> Checklist for [Sprint: Thursday](https://library.gv.com/sprint-week-thursday-df8d7c8c0555).
+
 ### Friday - Test
 
 * 5 entrevistas com usuarios prodem revelar grandes padrões
 * o time vera a entrevista em uma sala de conferencia 
+
+> Checklist for [Sprint: Friday](https://library.gv.com/sprint-week-friday-7f66b4194137#.8e10zsect).
 
 No final da sprint
 

@@ -82,30 +82,35 @@ LEAN UX principles help us establish a new work culture for ourselves.
   3. Try rapid variations, and
   4. Draw a detailed end to end solution.
 * **UX Tools**:
-  * [Crazy 8's]()
+  * [Crazy 8's](https://blog.prototypr.io/how-to-run-a-crazy-eights-workshop-60d0a67b29a)
 
 > Checklist for [Sprint: Tuesday](https://library.gv.com/sprint-week-tuesday-d22b30f905c3).
 
 
 ### Wednesday - Decide
 
-* escolham os melhores sketch
-* em silencio revisem e estruturem as criticas
-* transforme os melhores rabiscos em um storyboard
+* Sticky decision: decide which of those sketches should be prototyped and tested.
+* Five-step "Sticky Decision" method:
+  * Art museum (put all the sketches on a wall),
+  * Heat map (assign interesting sketches),
+  * Speed critique (quickly walks through the solution),
+  * Dot voting (one vote to choose the best solution), and
+  * Supervote (the final call).
+* **UX Tools**:
+  * [Storyboard](https://sprintstories.com/storyboarding-2-0-4e282b2da94d) 
 
 > Checklist for [Sprint: Wednesday](https://library.gv.com/sprint-week-wednesday-900fe3f2c26e).
 
 ### Thursday - Prototype
 
-* uma versão realistica do que voces precisam aprender com usuarios
-* numa tela: 
-  * balsamiq
-  * power point
-  * invision
-  * marvel
-* papel:
-  * power point
-  * word
+* Build: realistic prototype of the solutions in your storyboard.
+* Simulate: finished product for your customers.
+* **UX Tools**: 
+  * [Marvel](https://marvelapp.com/)
+  * [InVision](https://www.invisionapp.com/)
+  * [Figma](https://www.figma.com/)
+  * [Keynote](https://www.apple.com/keynote/)
+  * [Keynotopia](https://keynotopia.com/)
 
 > Checklist for [Sprint: Thursday](https://library.gv.com/sprint-week-thursday-df8d7c8c0555).
 
@@ -114,6 +119,9 @@ LEAN UX principles help us establish a new work culture for ourselves.
 * 5 entrevistas com usuarios prodem revelar grandes padrões
 * o time vera a entrevista em uma sala de conferencia 
 
+
+* **UX Tools**: 
+* 
 > Checklist for [Sprint: Friday](https://library.gv.com/sprint-week-friday-7f66b4194137#.8e10zsect).
 
 No final da sprint

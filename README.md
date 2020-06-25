@@ -121,6 +121,7 @@
 ## Reference
 
 * [UX & Design Thinking: Experiência do Usuário nos negócios](https://www.udemy.com/course/ux-design/)
+* [UX — Design Sprint](https://medium.com/@mafda_/ux-design-sprint-db4a6cc72e4a)
 * [Flowchart](https://whimsical.com/)
 
 ---

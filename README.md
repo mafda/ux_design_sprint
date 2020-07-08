@@ -1,10 +1,30 @@
+**Table of Contents**
+
+- [Design Sprint](#design-sprint)
+  - [5 days](#5-days)
+    - [Preparation - Before the Sprint begins](#preparation---before-the-sprint-begins)
+    - [Monday - Map](#monday---map)
+    - [Tuesday - Sketch](#tuesday---sketch)
+    - [Wednesday - Decide](#wednesday---decide)
+    - [Thursday - Prototype](#thursday---prototype)
+    - [Friday - Test](#friday---test)
+    - [Completion - After Sprint finish](#completion---after-sprint-finish)
+  - [Interesting videos](#interesting-videos)
+  - [Interesting books](#interesting-books)
+  - [More interesting links](#more-interesting-links)
+  - [Design Sprint checklist](#design-sprint-checklist)
+  - [Other repositories](#other-repositories)
+  - [Reference](#reference)
+
 # Design Sprint
 
 **Design Sprint** is about gathering a lot of knowledge and reaching an agreement with your team in a short time.
 
-[Design Sprint](https://www.thesprintbook.com/how) is to **build** and **test** a prototype in just **five days**:
-
 ![design sprint by mafda](img/design_sprint_by_mafda@2x.png)
+
+## 5 days
+
+[Design Sprint](https://www.thesprintbook.com/how) is to **build** and **test** a prototype in just **five days**:
 
 ### Preparation - Before the Sprint begins
 
@@ -106,10 +126,6 @@
 * [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.thesprintbook.com/)
 * [Design Sprint: A Practical Guidebook for Building Great Digital Products](http://www.designsprintbook.com/)
 
-## Design Sprint Checklist
-
-* [Sprint checklists (PDF)](https://static1.squarespace.com/static/56778f460ab377c981686546/t/56c2b6c337013bc7bcab14c7/1456958631313/Sprint+checklists.pdf)
-
 ## More interesting links
 
 * [What’s a Design Sprint and why is it important?](https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09)
@@ -117,6 +133,15 @@
 * [Design Sprint Kit with Google](https://designsprintkit.withgoogle.com/)
 * [Design Sprint DockYard](https://dockyard.com/design-sprints/)
 * [How to build a simple UX lab anywhere](https://library.gv.com/how-to-build-a-simple-ux-lab-anywhere-86e6c6b3fed4)
+
+## Design Sprint checklist
+
+* [Sprint checklists (PDF)](https://static1.squarespace.com/static/56778f460ab377c981686546/t/56c2b6c337013bc7bcab14c7/1456958631313/Sprint+checklists.pdf)
+
+## Other repositories
+
+* [UX Tools](https://github.com/mafda/ux_tools)
+* [Lean UX](https://github.com/mafda/ux_lean)
 
 ## Reference
 
